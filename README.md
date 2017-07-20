@@ -122,7 +122,7 @@ More through Information can be found in following links:
 - [Introduction to Parameters](http://symfony.com/doc/current/service_container/parameters.html#parameters-in-configuration-files)
 
 ## Testing
-To test the **Lyra/Base** on the given machine you need to use composer to install the dependencies first.
+To test the **Lyra Base** on the given machine you need to use composer to install the dependencies first.
 
 ```bash
 composer install
