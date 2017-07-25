@@ -28,7 +28,7 @@ Then add it as local folder in composer:
         }
     ],
     "require": {
-        "lyra/base": "*"
+        "rzuw/lyra-base": "*"
     }
 }
 ```
